@@ -1,10 +1,10 @@
 #---------------------------------------------------------------------------
-#Encoding: utf-8							  							   |
-#!/usr/bin/python3							  							   |
-#Channel users parser						   							   |
-#Attention: The script will only work if you ARE a channel administrator!   |
+#Encoding: utf-8							   |
+#!/usr/bin/python3							   |
+#Channel users parser						   	   |
+#Attention: The script will only work if you ARE a channel administrator!  |
 #---------------------------------------------------------------------------
-#Connect the necessary libraries:			   							   |
+#Connect the necessary libraries:			   		   |
 #---------------------------------------------------------------------------
 from telethon.sync import TelegramClient
 from telethon.tl.functions.channels import GetFullChannelRequest
