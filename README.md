@@ -6,6 +6,6 @@ To run the script, you need the:
 <li>get api_id and api_hash on the website <a href="https://my.telegram.org/">Telegram</a></li>
   <li><b>Attention:</b> you <b>must be</b> a channel administrator</li>
 </ul>
-# Usage
+Usage:<br>
 Add api_id and api_hash to the script and run:
 <code>python3 main.py</code>
